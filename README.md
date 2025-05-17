@@ -40,4 +40,5 @@ It classifies uploaded images into two categories: **Cat** or **Lion**.
 
 ## ✅ Example Output
 
-![screenshot](لقطة شاشة 2025-05-17 170515.png)
+![لقطة شاشة 2025-05-17 170515.png](screenshot.png)
+
